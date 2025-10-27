@@ -1,6 +1,10 @@
 plugins {
   id 'java'
+<<<<<<< HEAD
   id "com.katalon.gradle-plugin" version "0.0.7"
+=======
+  id "com.katalon.gradle-plugin" version "0.1.2"
+>>>>>>> branch 'master' of https://github.com/DickyAdiPratama/katalon.git
 }
 
 repositories {
