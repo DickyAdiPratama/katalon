@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Kafka_Consume_Orders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b51897ad-06bd-49b9-a353-b71df1dc2eff</testCaseGuid>
+</TestCaseEntity>
