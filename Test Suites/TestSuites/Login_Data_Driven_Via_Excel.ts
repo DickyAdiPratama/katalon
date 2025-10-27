@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_Data_Driven_Via_Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>7cfbfba2-522c-4ac8-bb82-7455343a39f6</testSuiteGuid>
+   <testCaseLink>
+      <guid>6a62cd55-c948-4a45-ad26-827b88c5f70d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>3ac40acc-10d6-4055-969a-b1ce45a95f3a</id>
+         <masked>false</masked>
+         <name>password</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/TC_007_Login_dengan_data_driven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>590fdb0e-e35c-4e18-bfc6-e84d739c51e0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_data_driven</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>590fdb0e-e35c-4e18-bfc6-e84d739c51e0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>19695bb6-3922-4a47-8954-422f0c718953</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>590fdb0e-e35c-4e18-bfc6-e84d739c51e0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3ac40acc-10d6-4055-969a-b1ce45a95f3a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

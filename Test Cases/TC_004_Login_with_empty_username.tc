@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_Login_with_empty_username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbfa512c-ae46-4ca4-9a48-097a8eb41cdf</testCaseGuid>
+</TestCaseEntity>
