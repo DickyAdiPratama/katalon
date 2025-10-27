@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('TC_001_Login_with_Valid_Data'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Test Case/TC_001_Login_with_Valid_Data'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.selectOptionByValue(findTestObject('Book Appointment/Facility'), 'Hongkong CURA Healthcare Center', true)
 

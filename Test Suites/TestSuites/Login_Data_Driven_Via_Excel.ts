@@ -22,7 +22,7 @@
          <masked>false</masked>
          <name>password</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/TC_007_Login_dengan_data_driven</testCaseId>
+      <testCaseId>Test Cases/Test Case/TC_007_Login_dengan_data_driven</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>590fdb0e-e35c-4e18-bfc6-e84d739c51e0</id>
